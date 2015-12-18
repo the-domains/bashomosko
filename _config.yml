@@ -1,7 +1,7 @@
 name: bashomosko
 favicon: null
-layout_spectrum: 0.17583477147854865
-typography_spectrum: 0.14094415958970785
+layout_spectrum: 0.30648
+typography_spectrum: 0.26489
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.2661325503140688
+    - '#92449a'
+    - '#ffffff'
+    - '#29c6d2'
+    - '#c2b4cb'
+    - '#c2ef10'
+  brandStrength: 0.6875
   lightness: 0.006112866103649139
   saturation: 0.6037520067766309
   rhythmicContrast: 0.2250702646560967
